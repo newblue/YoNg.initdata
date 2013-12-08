@@ -1,0 +1,15 @@
+title : YoNg
+tagline: YoNg Static Blog Compile Engine Fastest Go Golang GitHub Pages Jekyll Ruhoh
+author :
+  name : newblue
+  email : newblue@ciiaii.com
+  github : 
+  twitter : 
+  feedburner : 
+
+navigation :
+  - archive.html
+  - tags.html
+  - categories.html
+  - pages.html
+  - about.md

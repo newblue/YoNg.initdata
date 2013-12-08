@@ -1,0 +1,21 @@
+---
+RuhohSpec: '1.0'
+theme : twitter
+production_url : http://yong.ciiaii.com
+
+posts:
+  permalink: /:categories/:title/
+  summary_lines: 20
+  latest: 10
+
+editor:
+
+pages:
+  permalink: 'pretty'
+
+imgs:
+  urlprefix: '{{urls.media}}/'
+  localdir: 'media/'
+
+github:
+    CNAME: yong.ciiaii.com

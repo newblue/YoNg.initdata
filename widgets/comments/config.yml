@@ -1,0 +1,13 @@
+layout : disqus
+active: false
+disqus :
+  short_name : short_name
+livefyre :
+  site_id : site_id
+intensedebate :
+  account : account
+facebook :
+  appid : appid
+  num_posts: 5
+  width: 580
+  colorscheme: light
