@@ -1,2 +1,2 @@
 all:
-	yong compile
+	yong compile -public=../YoNg.Blog/
