@@ -1,0 +1,2 @@
+all:
+	yong compile
