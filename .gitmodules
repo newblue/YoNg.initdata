@@ -1,0 +1,3 @@
+[submodule "compiled"]
+	path = compiled
+	url = https://github.com/newblue/YoNg.Blog

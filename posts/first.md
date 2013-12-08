@@ -1,7 +1,7 @@
 ---
 date: "2013-12-07"
 layout: post
-title: 第一篇博客是关于YoNg
+title: 关于YoNg
 permalink: '/first/'
 categories:
 - YoNg

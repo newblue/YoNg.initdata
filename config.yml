@@ -1,7 +1,7 @@
 ---
 RuhohSpec: '1.0'
 theme : twitter
-production_url : http://yong.ciiaii.com
+production_url : 'http://newblue.github.io/YoNg.Blog'
 
 posts:
   permalink: /:categories/:title/
@@ -18,4 +18,4 @@ imgs:
   localdir: 'media/'
 
 github:
-    CNAME: yong.ciiaii.com
+    CNAME:
